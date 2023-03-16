@@ -10,7 +10,7 @@ I have recorded a quick video on the setup of this chat-bot, in case you want to
 
 ### What you will need
 There are couple of things that you need before you get started following this repository.
-* OpenAI API key, since it is open to all, you can create an account [here](https://openai.com/) and access the key.
+* OpenAI API key, since it is open to all, you can create an account [here](https://platform.openai.com/) and access the key.
 * You need a Twilio project, you can get `Account SID` and `Auth Token` for that project, we will need this to make requests. You can get it from [here](https://console.twilio.com/).
 * API requesting application like Postman, Insomnia, etc.
 * NGROK for local testing.
